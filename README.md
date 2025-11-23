@@ -5,7 +5,7 @@
 **Repositório:** dio-medusa-challenge
 
 ## Resumo
-Projeto realizado para o desafio da DIO: execução e documentação de ataques de força bruta controlados usando **Kali Linux** e **Medusa** contra ambientes vulneráveis (Metasploitable2 e DVWA). Contém comandos, wordlists simples, evidências (prints) e recomendações de mitigação.
+Projeto realizado para o desafio da DIO: execução e documentação de ataques de força bruta controlados usando **Kali Linux** e **Medusa** contra ambientes vulneráveis (Metasploitable2 e DVWA). Contém comandos, wordlists simples, evidências (prints).
 
 ## Estrutura do repositório
 - `wordlists/` — wordlists usadas (ex: users.txt)

@@ -26,4 +26,4 @@ Projeto realizado para o desafio da DIO: execução e documentação de ataques 
 
 ### Enumeração (nmap)
 ```bash
-nmap -sV -p 21,22,80,139,445 192.168.56.102 192.168.56.101
+nmap -sV -p 21,22,80,139,445  192.168.56.101

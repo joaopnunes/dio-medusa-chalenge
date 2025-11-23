@@ -9,7 +9,7 @@ Projeto realizado para o desafio da DIO: execução e documentação de ataques 
 
 ## Estrutura do repositório
 - `wordlists/` — wordlists usadas (ex: users.txt)
-- `scripts/` — scripts e comandos (ex: ftp-bruteforce.sh)
+- `scripts/` — scripts e comandos (ex: medusa-bruteforce-ftp.sh)
 - `evidence/images/` — capturas de tela dos testes
 - `evidence/logs/` — logs (medusa, nmap)
 - `notes/` — recomendações e observações

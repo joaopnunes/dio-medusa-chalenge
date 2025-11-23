@@ -1,7 +1,7 @@
 # DIO - Desafio: Força Bruta com Medusa (Kali + Metasploitable2 / DVWA / SMB)
 
 **Autor:** <João Nunes>  
-**Data:** <2025-11-18>  
+**Data:** <2025-11-23>  
 **Repositório:** dio-medusa-challenge
 
 ## Resumo
